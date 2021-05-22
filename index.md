@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## New Brunswick Blueberries
 
 You can use the [editor on GitHub](https://github.com/devcrew/nbbblue.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
